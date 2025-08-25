@@ -3,7 +3,6 @@ A 5V power supply is a circuit that converts an unregulated power source, typica
 <img width="844" height="753" alt="image" src="https://github.com/user-attachments/assets/90560be3-210b-44c3-9c23-0253606c055c" />
 ## PCB Layout 
 <img width="731" height="731" alt="image" src="https://github.com/user-attachments/assets/fbd9a2f8-31aa-4222-a669-48665e2c7530" />
-## Schematic Capture
-
+### Schematic Capture
 <img width="1118" height="358" alt="image" src="https://github.com/user-attachments/assets/24dfaccd-e3ae-4370-ae0a-8e3492481805" />
 
